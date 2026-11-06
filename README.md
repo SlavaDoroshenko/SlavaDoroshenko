@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Slava Doroshenko, software developer. A now playing card with a dog in headphones as the artwork">
-</picture>
+<img src="assets/header.svg" width="100%" alt="Slava Doroshenko, software developer. A dog in headphones">
 
 I build web, mobile and desktop interfaces with React, React Native, Capacitor and Astro.
 
